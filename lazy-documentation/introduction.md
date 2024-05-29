@@ -18,4 +18,4 @@ When looking at the documentation smells that might exist when analysing API doc
 4. Fragmented Documentation Smell.&#x20;
 5. Lazy Documentation Smell.
 
-The documentation that this paper will focus on, is the "Lazy Documentation Smell", which is both the most problematic and most prevalent smell in most API documentation [\[1\]](references.md). This is the issue that better showcases the way developers look at documentation as simply an afterthought, as it refers to the lack of effort placed into creating said documentation.
+The documentation smell that this paper will focus on, is the "Lazy Documentation Smell", which is both the most problematic and most prevalent smell in most API documentation [\[1\]](references.md). This is the issue that better showcases the way developers look at documentation as simply an afterthought, as it refers to the lack of effort placed into creating said documentation.
